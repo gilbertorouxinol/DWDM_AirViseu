@@ -1,0 +1,19 @@
+1, 1, Viana do Castelo, 138.47
+2, 1, Braga, 107.94
+3, 5, Porto, 80.14
+4, 1, Vila Real, 72.92
+5, 2, Braganca, 160.20
+6, 1, Aveiro, 61.71
+7, 1, Guarda, 56.36
+8, 1, Coimbra, 65.98
+9, 1, Castelo Branco, 84.70
+10, 2, Leiria, 126.79
+11, 2, Santarem, 171.40
+12, 2, Portalegre, 159.03
+13, 5, Lisboa, 239.70
+14, 3, Setubal, 251.44
+15, 3, Evora, 230.75
+16, 4, Beja, 313.07
+17, 7, Faro, 461.29
+18, 3, Ponta Delgada, 1563.46
+19, 3, Funchal, 1186.89

@@ -1,0 +1,5 @@
+Price Per Kilometer: 1
+Lower limit Discount Cost: 300
+Lower limit Discount Percentage: 25
+Upper limit Discount Cost: 1000
+Upper limit Discount Percentage: 50

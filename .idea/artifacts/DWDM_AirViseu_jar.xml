@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="DWDM AirViseu:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/DWDM_AirViseu_jar</output-path>
+    <root id="archive" name="DWDM AirViseu.jar">
+      <element id="module-output" name="DWDM AirViseu" />
+    </root>
+  </artifact>
+</component>
